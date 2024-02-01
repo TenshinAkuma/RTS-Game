@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706765132
+icon.svg::CompressedTexture2D::5834054560188528426::1706708050::1706708056::1::::<><>::
+world.tscn::PackedScene::6234834864053879558::1706764497::0::1::::<><>::uid://822hyr1b8yhy::::res://UI/UI.tscn
+::res://UI/::1706764670
+Camera2D.gd::GDScript::-1::1706763666::0::1::::<>Camera2D<>::
+UI.tscn::PackedScene::2373623186782772350::1706764670::0::1::::<><>::res://UI/Camera2D.gd
